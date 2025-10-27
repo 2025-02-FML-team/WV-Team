@@ -11,7 +11,8 @@ pip install -r requirements.txt
 
 ## 로컬 주피터 실행
 ```
-
+# 가상 환경 진입 후
+jupyter lab
 ```
 
 ## 빠른 시작(Colab)
