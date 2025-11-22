@@ -5,7 +5,11 @@
 .vscode/
 
 # data
-data/*
+data/*.zip
+data/models
+data/photos
+data/crops
+data/.ipynb_checkpoints
 
 # notebooks
 notebooks/.ipynb_checkpoints/*
