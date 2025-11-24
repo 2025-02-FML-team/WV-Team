@@ -22,3 +22,5 @@ notebooks/.ipynb_checkpoints/*
 
 *.png
 *.webp
+*.keras
+*.h5
